@@ -24,6 +24,7 @@ Before running the bot, ensure you have the following installed:
 4. Download the ChromeDriver executable and place it in the project directory.
 
 ## Usage
+(before running the script make sure to change the chromedriver directory to yours)
 1. Run the script.
 2. The script will open a new Chrome window and prompt you to scan the QR code using your WhatsApp mobile app to log in to WhatsApp Web.
 3. After scanning the QR code, enter the name of the recipient (contact or group) you want to send the message to.
